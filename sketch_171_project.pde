@@ -1,3 +1,10 @@
+* Developed by [SHINA ANAFI]
+ * Student Number [23358986]
+
+
+
+
+
 PImage scene,bottle,rubbish_bin,seeds;                          // Variable to store information about an image
                      // Start bin in the middle of the screen
 int ScreenWidth = 600;
