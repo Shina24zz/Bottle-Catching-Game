@@ -1,3 +1,23 @@
+
+//STEPS ON HOW TO PLAY THIS GAME
+
+
+//FIRST: Download Processing.
+//Second : Copy and paste this code onto processing
+//Lastly : Drag the pictures into processing after downloading them.
+
+
+
+
+
+
+
+
+
+
+
+
+
 PImage scene,bottle,rubbish_bin,seeds;                          // Variable to store information about an image
                      // Start bin in the middle of the screen
 int ScreenWidth = 600;
@@ -131,4 +151,7 @@ void draw()
 
 
 // Refrence 
-//Lab 2 for the paddle moving ping pong game. 
+//Lab 2 for the paddle moving ping pong game.  
+
+
+
