@@ -36,8 +36,6 @@ Speed Mechanism:
 
 
 
-// Refrence 
-//Lab 2 for the paddle moving ping pong game.  
 
 
 
