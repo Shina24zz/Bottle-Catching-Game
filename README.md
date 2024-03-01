@@ -5,7 +5,9 @@
 **Overview**
 This Java based game challenges players to catch falling objects using a rubbish bin. The game features bottles and seeds as objects falling from the top of the screen, and players must move the rubbish bin to catch the objects. The score increases when bottles are caught, and additional lives and points are awarded for catching seeds.
 
-
+**Requirements**
+Make sure you add the games photos.
+You can do this by dragging the png files to the ide in which you copy and pasted the code.
 
 **Features**
 Responsive rubbish bin controlled by the mouse.
