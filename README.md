@@ -1,33 +1,27 @@
 
-//STEPS ON HOW TO PLAY THIS GAME
 
+**Shina's Falling Objects Game**
 
-//FIRST: Download Processing.
-//Second : Copy and paste this code onto processing
-//Lastly : Drag the pictures into processing after downloading them.
-
-The game involves controlling a bin using the mouse to catch falling objects, namely bottles and seeds, as they descend from the top of the screen. The player gains points for catching bottles and additional points and lives for catching seeds. The game gets progressively faster every 10 points.
-
-
-Bin: Represented by an image, controlled by the mouse cursor, and positioned near the bottom of the screen.
-Bottles: Falling objects represented by an image. The player scores points by catching them with the bin.
-Seeds: Another type of falling object. Catching seeds not only scores points but also increases the player's lives.
-Scoring and Lives:
-Score: Tracks the player's score, incremented when bottles are caught and when seeds are caught.
-Lives: Represents the number of lives the player has. The game deducts lives when bottles reach the bottom. Catching seeds adds lives.
-Speed Mechanism:
+**Overview**
+This Java based game challenges players to catch falling objects using a rubbish bin. The game features bottles and seeds as objects falling from the top of the screen, and players must move the rubbish bin to catch the objects. The score increases when bottles are caught, and additional lives and points are awarded for catching seeds.
 
 
 
+**Features**
+Responsive rubbish bin controlled by the mouse.
+Falling bottles that increase the score when caught.
+Falling seeds that provide additional lives and points when caught.
+Increasing difficulty with the speed of falling objects.
+Instructions
+Run the program to start the game.
+Move the rubbish bin left or right using the mouse to catch falling objects.
+Catch bottles to increase your score.
+Catch seeds for extra lives and points.
+Avoid missing objects, as it will result in losing lives.
+The game ends when all lives are depleted.
 
-
-
-
-
-
-
-
-
+**Controls**
+Move the mouse left or right to control the rubbish bin.
 
 
 
